@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t}from"./app-5011595d.js";const _={};function r(c,n){return e(),t("div")}const f=o(_,[["render",r],["__file","(2)创建proto.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{P as o}from"./path-8d162d8b.js";function u(n){return function(){return n}}function a(n){let t=3;return n.digits=function(r){if(!arguments.length)return t;if(r==null)t=null;else{const i=Math.floor(r);if(!(i>=0))throw new RangeError(`invalid digits: ${r}`);t=i}return n},()=>new o(t)}export{u as c,a as w};
